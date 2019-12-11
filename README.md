@@ -1,3 +1,10 @@
+これは、以下の記事用に改造したリポジトリです。
+
+https://qiita.com/genkitoyama/items/262c5b9c489130eb877d
+
+---
+
+
 Standard Geometry Shader Example
 ================================
 
